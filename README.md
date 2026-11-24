@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: deadlock-fps-boost, deadlock, fps, boost, optimization, config, tuning, gaming-tools, performance, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+deadlock fps boost optimization config tuning gaming-tools performance deadlock-optimizer dl-performance-tool deadlock-fps-boost windows portable prebuilt x64 free download
+related: deadlock, fps, boost, optimization, config, tuning, gaming-tools, performance
